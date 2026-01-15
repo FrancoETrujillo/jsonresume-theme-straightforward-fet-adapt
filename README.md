@@ -66,7 +66,7 @@ A straightforward [jsonresume](https://github.com/jsonresume) theme with adaptiv
 
 ## usage
 
-### Using resume-cli (Recommended)
+### Using resume-cli
 
 Install resume-cli globally and the theme:
 
